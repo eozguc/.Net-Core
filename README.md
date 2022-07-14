@@ -1,0 +1,2 @@
+# .Net-Core
+Orta Seviye .Net Core Patikası Bu patikada bir çok platform için geliştirme yapabileceğin .Net'i öğreniyor olacaksın. Başlangıç seviyesinde öğrendiğin konuları .Net modülü ile projeler geliştirecek seviyeye taşıyacaksın. Backend konuşmaya başlayınca akla ilk gelen konulardan SQL modülü de bu patikada seni bekliyor! Bu patikayı bitirince Deployment modülü ile projelerini yayınlayabileceksin!
